@@ -1,0 +1,7 @@
+{
+  "name": "TerreFVG AI Explorer",
+  "description": "Una mappa interattiva di nuova generazione per la rete TerreFVG. Utilizza l'IA per creare itinerari personalizzati e visualizza le connessioni tra le aziende agricole come una rete vivente.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
